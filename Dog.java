@@ -4,7 +4,10 @@ public class TestSuite {
         System.out.println("Hello, Dog!");
         
     }
+}
 
+public class Dog{
+     private String name;
 	
 }
 
