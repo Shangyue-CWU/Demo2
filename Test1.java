@@ -1,5 +1,5 @@
 class Wheel {
-    // Wheel implementation
+    // Wheel implementation ok
 }
 
 class Car {
